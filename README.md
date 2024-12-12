@@ -1,4 +1,4 @@
-!(banner)[https://github.com/PJURC-data-analysis/coursera-courses/blob/main/media/banner.png]
+![banner](https://github.com/PJURC-data-analysis/coursera-courses/blob/main/media/banner.png)
 
 # Coursera Course Analysis: Success Factors in Online Learning
 
