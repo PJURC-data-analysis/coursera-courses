@@ -1,6 +1,7 @@
 ![banner](https://github.com/PJURC-data-analysis/coursera-courses/blob/main/media/banner.png)
 
 # Coursera Course Analysis: Success Factors in Online Learning
+[View Notebook](https://github.com/PJURC-data-analysis/coursera-courses/blob/main/Coursera%20Courses.ipynb)
 
 An analysis of 891 Coursera courses to identify key factors contributing to course success and popularity. This study examines relationships between course features like certification types, difficulty levels, and organizational partnerships to provide strategic insights for online education providers.
 
